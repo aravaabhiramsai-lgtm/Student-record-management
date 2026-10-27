@@ -66,13 +66,13 @@ Here, `n` represents the number of student records.
 4. Compile the program:
 
    ```bash
-   g++ main.cpp -o main
+   g++ ADSApro.cpp -o main
    ```
 
 5. Run the program on Windows:
 
    ```powershell
-   .\main.exe
+   .\ADSApro.exe
    ```
 
 ## Sample Output
@@ -119,7 +119,7 @@ This project demonstrates how a singly linked list can be used to manage student
 
 ## Author
 
-**Name:** Your Name  
+**Name:** Arava Abhiram sai  
 **Course:** BE CSE AIML  
 **Semester:** 3rd Semester  
 **Subject:** Data Structures and Algorithms (DSA)
